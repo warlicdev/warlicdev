@@ -1,5 +1,5 @@
 <div align="center">
   
-## What's up? Warlic is my name, and that's all you need to know.
+## What's up? Name's Warlic, and that's all you need to know.
   
 </div>
